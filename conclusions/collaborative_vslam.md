@@ -10,6 +10,7 @@
 
 ## categories
 ### centralized vs. distributed
+![](cent_vs_decent.png)
 * centralized architecture
 
     * most collaborative vslam papers
@@ -23,7 +24,8 @@
 
 * distributed architecture
 
-    * 12
+    * need to consider bandwidth constraints and limited onboard computational resources
+
 ![](distributed_architecture.png)
 
 ### filter based method vs. key-frame based method

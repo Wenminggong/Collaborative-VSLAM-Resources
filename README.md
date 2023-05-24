@@ -7,11 +7,15 @@ This repo collects a series of papers and resources about **Collaborative Visual
 
     * first survey of collaborative vslam.
 
+* [2022 Field_Robotics Towards Collaborative Simultaneous Localization and Mapping:a Survey of the Current Research Landscape](https://fieldrobotics.net/Field_Robotics/Volume_2_files/Vol2_32.pdf)
+
 ****
 ## Centralized Architecture
 ![](centralized_papers.png)
 
-* [2013 CoSLAM: Collaborative Visual SLAM in Dynamic Environments](https://ieeexplore.ieee.org/abstract/document/6193110)
+* [2013 T-PAMI CoSLAM: Collaborative Visual SLAM in Dynamic Environments](https://ieeexplore.ieee.org/abstract/document/6193110)
+* [2018 RA-L CVI-SLAM: Collaborative Visual-Inertial SLAM](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/294281/7/2018_IROS_Karrer.pdf)
+* [2018 Field_Robotics CCM-SLAM: Robust and E cient Centralized Collaborative Monocular SLAM for Robotic Teams](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/313259/2018_CCM_SLAM.pdf?sequence=2)
 
 ****
 ## Distributed Architecture
