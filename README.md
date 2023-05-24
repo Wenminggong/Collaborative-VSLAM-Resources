@@ -15,3 +15,5 @@ This repo collects a series of papers and resources about **Collaborative Visual
 
 ****
 ## Distributed Architecture
+
+* [2018 ICRA Data-Efficient Decentralized Visual SLAM](https://arxiv.org/pdf/1710.05772.pdf) 
