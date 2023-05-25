@@ -22,7 +22,7 @@ This repo collects a series of papers and resources about **Collaborative Visual
 ## Decentralized or Distributed Architecture
 
 * [2018 ICRA Data-Efficient Decentralized Visual SLAM](https://arxiv.org/pdf/1710.05772.pdf) 
-* [2019 DOOR-SLAM: Distributed,Online,and Outlier Resilient SLAM for Robotic Teams](https://arxiv.org/pdf/1909.12198.pdf)
+* [2019 RA-L DOOR-SLAM: Distributed,Online,and Outlier Resilient SLAM for Robotic Teams](https://arxiv.org/pdf/1909.12198.pdf)
 * [2022 T-RO Kimera-Multi: Robust, Distributed, Dense Metric-Semantic SLAM for Multi-Robot Systems](https://arxiv.org/pdf/2106.14386.pdf)
 * [2023 Swarm-SLAM: Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems](https://arxiv.org/abs/2301.06230)
 * [2023 D^2-SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm](https://arxiv.org/pdf/2211.01538.pdf)
@@ -37,6 +37,14 @@ This repo collects a series of papers and resources about **Collaborative Visual
 * [2023 Swarm-SLAM](https://github.com/MISTLab/Swarm-SLAM)
 * [2023 D^2-SLAM](https://github.com/HKUST-Aerial-Robotics/D2SLAM)
 
+| project | sensors | test for UAV ｜ performance | software |
+| ------ | ------ | ------ | ------ | ------ |
+| Kimera-Multi | x | x | x | x |
+| Swarm-SLAM | X | X | X | x |
+| D^2-SLAM | stereo or omnidirectional cemeras (fisheye) with Inertial | yes | better than vins-mono in some datasets | docker with ros |
+
 ### Lab and Personal Homepages
 * [Vision for Robotics Lab, ETH](https://github.com/VIS4ROB-lab)
 * [Distributed Multi UAVs, MIT, Yulun Tian.](https://www.tianyulun.com/)
+* [MISTLAB](https://lajoiepy.github.io/)
+* [HKUST Aerial Robotics Group](https://uav.hkust.edu.hk/)
