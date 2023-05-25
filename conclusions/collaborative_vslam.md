@@ -9,7 +9,7 @@
     * A potential solution to solve the challenge of dynamic environment in multi-agents
 
 ## categories
-### centralized vs. distributed
+### centralized vs. decentralized or distributed
 ![](cent_vs_decent.png)
 * centralized architecture
 
@@ -22,7 +22,7 @@
         * need a powerful server
     * improve: ruduce data communication load and compute in local as far as possible
 
-* distributed architecture
+* decentralized or distributed architecture
 
     * need to consider bandwidth constraints and limited onboard computational resources
 

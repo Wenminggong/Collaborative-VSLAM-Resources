@@ -15,9 +15,28 @@ This repo collects a series of papers and resources about **Collaborative Visual
 
 * [2013 T-PAMI CoSLAM: Collaborative Visual SLAM in Dynamic Environments](https://ieeexplore.ieee.org/abstract/document/6193110)
 * [2018 RA-L CVI-SLAM: Collaborative Visual-Inertial SLAM](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/294281/7/2018_IROS_Karrer.pdf)
-* [2018 Field_Robotics CCM-SLAM: Robust and E cient Centralized Collaborative Monocular SLAM for Robotic Teams](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/313259/2018_CCM_SLAM.pdf?sequence=2)
+* [2018 Field_Robotics CCM-SLAM: Robust and Efficient Centralized Collaborative Monocular SLAM for Robotic Teams](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/313259/2018_CCM_SLAM.pdf?sequence=2)
+*  [2021 COVINS: Visual-Inertial SLAM for Centralized Collaboration](https://www.research-collection.ethz.ch/handle/20.500.11850/507909)
 
 ****
-## Distributed Architecture
+## Decentralized or Distributed Architecture
 
 * [2018 ICRA Data-Efficient Decentralized Visual SLAM](https://arxiv.org/pdf/1710.05772.pdf) 
+* [2019 DOOR-SLAM: Distributed,Online,and Outlier Resilient SLAM for Robotic Teams](https://arxiv.org/pdf/1909.12198.pdf)
+* [2022 T-RO Kimera-Multi: Robust, Distributed, Dense Metric-Semantic SLAM for Multi-Robot Systems](https://arxiv.org/pdf/2106.14386.pdf)
+* [2023 Swarm-SLAM: Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems](https://arxiv.org/abs/2301.06230)
+* [2023 D^2-SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm](https://arxiv.org/pdf/2211.01538.pdf)
+
+****
+## Other Resources
+### Open-source Projects
+* [2021 COVINS](https://github.com/VIS4ROB-lab/covins) (centralized)
+* [2018 DSLAM](https://github.com/uzh-rpg/dslam_open)
+* [2019 DOOR-SLAM](https://github.com/MISTLab/DOOR-SLAM)
+* [2022 Kimera-Multi](https://github.com/MIT-SPARK/Kimera-Multi)
+* [2023 Swarm-SLAM](https://github.com/MISTLab/Swarm-SLAM)
+* [2023 D^2-SLAM](https://github.com/HKUST-Aerial-Robotics/D2SLAM)
+
+### Lab and Personal Homepages
+* [Vision for Robotics Lab, ETH](https://github.com/VIS4ROB-lab)
+* [Distributed Multi UAVs, MIT, Yulun Tian.](https://www.tianyulun.com/)
