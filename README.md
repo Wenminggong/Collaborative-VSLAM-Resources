@@ -40,9 +40,9 @@ This repo collects a series of papers and resources about **Collaborative Visual
 
 | project | sensors | test for UAV | performance | software |
 | ------ | ------ | ------ | ------ | ------ | 
-| Kimera-Multi | x | x | x | x | 
-| Swarm-SLAM | X | X | X | x | 
-| D^2-SLAM | stereo or omnidirectional cemeras (fisheye) with Inertial | yes | better than vins-mono in some datasets | docker with ros | 
+| Kimera-Multi | stereo and rgb-d cameras with inertial | not (only ground robots) | compared with wome backend methods (support semantic maping) | ros | 
+| Swarm-SLAM | stereo, lidar and rgb-d with inertial | not (only ground robots) | better than 2 sota pose graph optimization backend methods | ros2 | 
+| D^2-SLAM | stereo or omnidirectional cemeras (fisheye) with Inertial | yes (indoor small scene) | better than vins-mono in some datasets | docker with ros | 
 
 
 ### Lab and Personal Homepages
